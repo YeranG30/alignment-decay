@@ -1,6 +1,6 @@
 # TASEF: Temporal Agent Security Evaluation Framework
 
-Code and data for **"Omission Constraints Decay While Commission Constraints Persist in Long-Context LLM Agents"** — a framework for measuring Security-Recall Divergence (SRD) in production LLM agents.
+Code and data for **"Omission Constraints Decay While Commission Constraints Persist in Long-Context LLM Agents"**  a framework for measuring Security-Recall Divergence (SRD) in production LLM agents.
 
 **Paper:** [arXiv link] | **Data:** [Zenodo link]
 
