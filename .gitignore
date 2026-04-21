@@ -1,0 +1,44 @@
+# ── Credentials ───────────────────────────────────────────────
+.env
+
+# ── Internal planning/scratch docs ────────────────────────────
+PRESENTATION.md
+SLIDESGO_PROMPT.md
+EXECUTION_PLAN.md
+TODO.md
+ANALYSIS_PLAN.md
+GOALS.md
+RESEARCH_PLAN.md
+RESEARCH_PLAN*.md
+methods_draft.md
+paper_outline.md
+build_zenodo_zip.py
+
+# ── Claude Code session files ──────────────────────────────────
+.claude/
+
+# ── LaTeX build artifacts ──────────────────────────────────────
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bib.bak
+
+# ── Data (archived on Zenodo, too large for git) ───────────────
+*.db
+experiments/data/evidence/
+data/evidence/*.json
+data/reports/*.json
+data/stolen_data.txt
+data/*_sinks.txt
+data/screenshots/
+
+# ── Archives ───────────────────────────────────────────────────
+*.zip
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
