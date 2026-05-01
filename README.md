@@ -2,8 +2,6 @@
 
 Code and data for **"Omission Constraints Decay While Commission Constraints Persist in Long-Context LLM Agents"**  a framework for measuring Security-Recall Divergence (SRD) in production LLM agents.
 
-**Paper:** [arXiv link] | **Data:** [Zenodo link]
-
 ---
 
 ## Quickstart
@@ -109,14 +107,3 @@ Each trial runs a scripted DevOps debugging scenario. The model reads a `securit
 All constraint scoring is deterministic string/regex matching in `sandbox.py`. No LLM judge required.
 
 ---
-
-## Citation
-
-```bibtex
-@article{gamage2026srd,
-  title   = {Omission Constraints Decay While Commission Constraints Persist
-             in Long-Context {LLM} Agents},
-  author  = {Gamage, Yeran},
-  year    = {2026},
-}
-```
